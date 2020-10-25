@@ -1,5 +1,5 @@
 # EIS
-Work developed during the course on electronics and telecommunications engineering. This one, was done in the class of Electronic Instrumentation Systems in the 4th year (2018/2019).
+Work developed during the course on electronics and telecommunications engineering (Universidade de Aveiro). This one, was done in the class of Electronic Instrumentation Systems in the 4th year (2018/2019).
 
 * /*Examples*/
 In the folder MicrocontrollerExemple-master there is the code which served, as a example, to develop the functions of the LCD. Thanks to the developer, it was a big help. Link: https://github.com/andrade824/Microcontroller-Example-Code 
